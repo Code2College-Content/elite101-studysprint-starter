@@ -6,7 +6,7 @@ def get_cards(data):
 
 
 def check_answer(card, guess):
-    return guess.strip().lower() == card["answer"].strip().lower()
+    return guess.strip() == card["answer"].strip()
 
 
 def run_quiz(cards, ask=input, show=print):
