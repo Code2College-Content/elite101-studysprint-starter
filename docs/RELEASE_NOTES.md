@@ -16,3 +16,4 @@ release goes first. Keep each entry to what a user would notice.
 ```
 
 <!-- Your first real release note goes below this line. -->
+in this project, we added the sort card feature, retry missed features, as well as fixeg bugs and much more.
